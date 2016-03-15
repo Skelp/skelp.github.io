@@ -2,3 +2,36 @@ exclude:
   - CNAME
   - Gemfile
   - README.md
+title: Skelp
+analytics_account: UA-27505414-1
+social_links:
+  - email:
+    href: mailto:contact@skelp.io
+    class_prefix: email
+    icon: fa-envelope-square
+    text: Email
+  - github:
+    href: https://github.com/skelp
+    class_prefix: github
+    icon: fa-github-square
+    text: GitHub
+  - bitbucket:
+    href: https://bitbucket.org/skelp/
+    class_prefix: bitbucket
+    icon: fa-bitbucket-square
+    text: BitBucket
+  - twitter:
+    href: https://twitter.com/SkelpUK
+    class_prefix: twitter
+    icon: fa-twitter-square
+    text: Twitter
+  - google_plus:
+    href: https://plus.google.com/115119130458826464301
+    class_prefix: google-plus
+    icon: fa-google-plus-square
+    text: Google+
+  - facebook:
+    href: https://www.facebook.com/SkelpUK/
+    class_prefix: facebook
+    icon: fa-facebook-square
+    text: Facebook

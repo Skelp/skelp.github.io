@@ -127,6 +127,9 @@ footer {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
+}
+
+.cover-logo-main {
   background-image: url('/assets/images/invert/skelp-logo-invert-300x300.png');
   background-image: url('/assets/images/invert/skelp-logo-invert.svg'), none;
 }
@@ -154,6 +157,9 @@ footer {
   .cover-logo {
     width: $cover-size-small;
     height: $cover-size-small;
+  }
+
+  .cover-logo-main {
     background-image: url('/assets/images/invert/skelp-logo-invert-144x144.png');
     background-image: url('/assets/images/invert/skelp-logo-invert.svg'), none;
   }
