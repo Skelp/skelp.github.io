@@ -63,6 +63,7 @@ footer {
     float: left;
     margin: 0;
     padding-right: $main-padding;
+    font-weight: bold;
     line-height: $footer-line-height;
     text-align: left;
   }
@@ -112,6 +113,17 @@ footer {
   background-size: contain;
   background-image: url('/assets/images/invert/skelp-logo-invert-300x300.png');
   background-image: url('/assets/images/invert/skelp-logo-invert.svg'), none;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;
 }
 
 @media (max-width: $cover-size + ($main-padding * 2)) {
