@@ -22,3 +22,4 @@ Server address: http://127.0.0.1:4000/
 ## Copyright
 
 © 2016 Skelp
+<img align="right" width="16" height="16" src="https://raw.githubusercontent.com/Skelp/skelp-branding/master/assets/logo/base/skelp-logo-16x16.png">
