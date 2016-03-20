@@ -1,10 +1,13 @@
 ---
 ---
-
-$primary-color: #ff3333;
-$primary-darker-color: #ff0033;
-$primary-lighter-color: #ff6666;
-$secondary-color: #fff;
+$black-color: #000000;
+$white-color: #FFFFFF;
+$primary-color: #F44336;
+$primary-light-color: #FFCDD2;
+$primary-dark-color: #D32F2F;
+$secondary-color: #2196F3;
+$secondary-light-color: #BBDEFB;
+$secondary-dark-color: #1976D2;
 
 $cover-size: 300px;
 $cover-size-small: 144px;
@@ -38,7 +41,7 @@ a {
 }
 
 a:hover {
-  color: $primary-lighter-color;
+  color: $primary-dark-color;
 }
 
 main {
@@ -54,7 +57,7 @@ footer {
   width: 100%;
   height: $footer-height;
   padding: $footer-padding $main-padding;
-  background-color: $secondary-color;
+  background-color: $white-color;
   color: $primary-color;
   font-size: 16px;
   text-align: right;
@@ -88,16 +91,16 @@ footer {
     color: #205081;
   }
   .social-link-facebook:hover {
-    color: #3a5795;
+    color: #3A5795;
   }
   .social-link-github:hover {
-    color: #333;
+    color: #333333;
   }
   .social-link-google-plus:hover {
-    color: #db4437;
+    color: #DB4437;
   }
   .social-link-twitter:hover {
-    color: #1da1f2;
+    color: #1DA1F2;
   }
 }
 
@@ -113,7 +116,7 @@ footer {
 
 .cover-heading {
   margin: 15px 0 0 0;
-  color: $secondary-color;
+  color: $white-color;
   font-size: 72pt;
   font-weight: normal;
   text-align: center;
