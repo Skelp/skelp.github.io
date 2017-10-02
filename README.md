@@ -1,6 +1,6 @@
-# skelp.github.io
+# skelp.io
 
-The [Skelp.io](http://skelp.io/) homepage which is hosted on [GitHub Pages](https://pages.github.com/) using [Jekyll](https://jekyllrb.com/).
+The [skelp.io](https://skelp.io) homepage which is hosted on [GitHub Pages](https://pages.github.com/) using [Jekyll](https://jekyllrb.com/).
 
 ## Install
 
@@ -21,5 +21,4 @@ Server address: http://127.0.0.1:4000/
 
 ## Copyright
 
-© 2016 [Skelp](http://skelp.io/)
-<img align="right" width="16" height="16" src="https://raw.githubusercontent.com/Skelp/skelp-branding/master/assets/logo/base/skelp-logo-16x16.png">
+© 2017 Alasdair Mercer
